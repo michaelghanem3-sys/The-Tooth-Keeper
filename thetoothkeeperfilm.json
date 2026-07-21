@@ -1,0 +1,63 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Movie",
+  "name": "The Tooth Keeper",
+  "description": "Michael, a stressed college student, is looking forward to summer. On the last day of school, he breaks a tooth, an event that seems to summon a sinister figure known as the Tooth Keeper. Later, a secret is revealed.",
+  "genre": [
+    "Horror",
+    "Mystery"
+  ],
+  "duration": "PT58M",
+  "director": {
+    "@type": "Person",
+    "name": "Michael Ghanem"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Michael Ghanem"
+  },
+  "actor": [
+    {
+      "@type": "Person",
+      "name": "Michael Ghanem",
+      "characterName": "Michael"
+    },
+    {
+      "@type": "Person",
+      "name": "Michael Ghanem",
+      "characterName": "The Tooth Keeper"
+    },
+    {
+      "@type": "Person",
+      "name": "Cendrella Hawat",
+      "characterName": "Mother"
+    },
+    {
+      "@type": "Person",
+      "name": "George Ghanem",
+      "characterName": "Father"
+    },
+    {
+      "@type": "Person",
+      "name": "Tony Tadros",
+      "characterName": "Therapist"
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "7.4",
+    "bestRating": "10"
+  },
+  "contentUrl": "https://youtu.be/XTFCmwRtCVI?si=rfNBdL2rNbyGGACH",
+  "full film": {
+    "@type": "VideoObject",
+    "embedUrl": "https://youtu.be/XTFCmwRtCVI?si=rfNBdL2rNbyGGACH"
+  },
+  "budget": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": 930
+  }
+}
+</script>
